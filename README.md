@@ -1,4 +1,4 @@
-# err-gitbot plugin a that watchs your git repositories.
+# err-gitbot a plugin that watches your git repositories.
 
 For more information about err you can find it here: https://github.com/errbotio/errbot
 
